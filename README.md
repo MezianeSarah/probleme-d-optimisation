@@ -1,6 +1,6 @@
 # Projet d'Optimisation de l'Énergie
 
-Bienvenue dans le repository dédié à mon projet d'optimisation de l'énergie dans les réseaux de capteurs sans fil. Ce projet fait partie de mon mémoire de fin d'études pour le Master 2 en Modélisation et Analyse Numérique.
+Bienvenue dans le repository dédié à mon projet d'optimisation de l'énergie dans les réseaux de capteurs sans fil. Ce projet fait partie de mon mémoire de fin d'études pour le Master 2 en Modélisation Mathématique et Aide à la Décision.
 
 ---
 
