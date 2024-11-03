@@ -23,4 +23,9 @@ Ce repository contient les fichiers suivants :
 
 ---
 
+## Utilisation
+
+Pour exécuter le projet, assurez-vous d'avoir un environnement C++ configuré. Compilez les fichiers `main.cpp`, `application.cpp`, et `Graphe.cpp`, puis exécutez le programme.
+
+
 
